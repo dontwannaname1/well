@@ -1,0 +1,25 @@
+﻿  Baddie.cpp
+  Source.cpp
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(24,22): error C2276: '&': illegal operation on bound member function expression
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(24,41): error C2276: '&': illegal operation on bound member function expression
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(27,21): error C3867: 'Character::getHP': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(27,21): error C2296: '<=': illegal, left operand has type 'int (__thiscall Character::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(27,21): error C2297: '<=': illegal, right operand has type 'int (__thiscall Character::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(31,22): error C3867: 'Baddie::getHP': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(31,22): error C2296: '<=': illegal, left operand has type 'int (__thiscall Baddie::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(31,22): error C2297: '<=': illegal, right operand has type 'int (__thiscall Baddie::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(70,30): error C3867: 'Character::getCrit': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(70,30): error C2446: '>=': no conversion from 'int' to 'int (__thiscall Character::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(70,22): message : There are no conversions from integral values to pointer-to-member values
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(76,43): error C3867: 'Baddie::getHP': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(76,43): error C2296: '-': illegal, left operand has type 'int (__thiscall Baddie::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(80,22): error C3867: 'Baddie::getHP': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(80,22): error C2296: '<=': illegal, left operand has type 'int (__thiscall Baddie::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(80,22): error C2297: '<=': illegal, right operand has type 'int (__thiscall Baddie::* )(void)'
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(81,15): error C2659: '=': function as left operand
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(83,53): error C3867: 'Baddie::getHP': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Evan\source\repos\NextPractive\NextPractive\Source.cpp(83,53): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information
